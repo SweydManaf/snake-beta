@@ -1,4 +1,4 @@
-# snake-beta
+# Snake Game
  Jogo da cobrinha desenvolvida com tutorial no Youtube
 
 ## Pré-requisitos
